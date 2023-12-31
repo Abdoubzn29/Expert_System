@@ -1,0 +1,18 @@
+Steps:
+1-COPIE THE PROGRAMME TO YOUR IDE .
+2-COMPILE THE PROGRAMME (it will show some errors , just ignore them all and re compile it) .
+3-NOW YOU WILL HAVE A SUCCESS COMPILATION .
+4-TYPE (?- career_advice.) AND PRESS ENTER .
+5-IT WILL SHOW YOU A MSG :
+  Welcome to the career advice program!
+  Enter your skills (comma-separated): 
+  |:(ENTER YOUR SKILLS HERE(you can use the predefined careers with associated skills IN THE PROGRAMME .
+                            to be adviced by a career you need to match 4 skills )
+                            enter many skills you want).
+6-PRESS ENTER.
+7-IT WILL SHOW YOU A NEW MSG :
+  Enter your interests (comma-separated): 
+  |: (ENTER YOUR INTERESTS HERE(you can use the predefined careers with associated interests IN THE PROGRAMME .
+                            to be adviced by a career you need to match 4 interests )
+                            enter many interests you want).
+8-PRESS ENTER AND SEE THE MAGIC .
